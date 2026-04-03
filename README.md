@@ -30,7 +30,7 @@ It allows users to manage business records with basic CRUD functionality.
 Download the project or clone it using Git.
 
 ```
-git clone https://github.com/your-username/business-rating-system.git
+git clone https://github.com/sachinshindepatil/business-rating-system.git
 ```
 
 ---
